@@ -1,0 +1,16 @@
+{
+  "name": "lillklobb-map",
+  "version": "0.0.0",
+  "description": "An interactive map for Lillklobb Permaculture Project in Espoo Finland",
+  "main": "app.js",
+  "keywords": [
+    "map",
+    "leaflet",
+    "svg"
+  ],
+  "author": "@adriennn",
+  "license": "MIT",
+  "dependencies": {
+    "leaflet": "^1.2.0"
+  }
+}

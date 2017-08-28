@@ -1,0 +1,11 @@
+body, html {
+  height: 100%;
+}
+
+#map {
+  margins: auto;
+}
+
+.leaflet-container {
+    background: #fff;
+}
